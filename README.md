@@ -39,26 +39,6 @@ The goal of this repository is to demonstrate hands-on understanding of deep lea
 
 ---
 
-## 📁 Repository Structure
-
-
-DeepLearning/
-├── ex-1-perceptron.py
-├── ex-2-multilayer-perceptron.py
-├── ex-3-data-augmentation.py
-├── DogEmotion.py
-├── student-mat.csv
-│
-├── 📄 Reports/
-│ ├── EX-1_PERCEPTRON_LEARNING.pdf
-│ ├── EX-2(DL)multilayer-perceptron.pdf
-│ ├── EX-3_DATA_AUGMENTATION.pdf
-│ ├── DOG EMOTION CLASSIFIER USING CNN DOCUMENT.pdf
-│ ├── ANIMATION VIDEO REPORT.pdf
-│ └── DL-8910.pdf
-│
-├── 🎥 Animation_Video.mp4
-└── README.md
 
 
 ---
